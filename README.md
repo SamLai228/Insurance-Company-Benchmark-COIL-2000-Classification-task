@@ -1,6 +1,4 @@
 # Insurance Company Benchmark (COIL 2000) 預測潛在消費者及識別識別重要因素-露營車保險
-
-![Insurance Company Image](https://imgur.com/BWu0nAS)
 .
 
 ## About the project
