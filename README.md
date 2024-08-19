@@ -15,6 +15,7 @@
 3.調整少數類別的權重**
 
 資料集來源 [here](https://archive.ics.uci.edu/dataset/125/insurance+company+benchmark+coil+2000)
+Python notebook在 Insurance_Company_classification.ipynb 這個檔案裡
 
 ## Built with
 
